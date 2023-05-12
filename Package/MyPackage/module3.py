@@ -1,4 +1,4 @@
-def main(string):
+def m3(string):
     slowa = []
     znaki = []
     z = [" ", ",", "."]
@@ -16,4 +16,4 @@ def main(string):
     return slowa, znaki
 
 if __name__ == "__main__":
-    main()
+    m3()

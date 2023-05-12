@@ -1,4 +1,4 @@
-def main(n):
+def m2(n):
     licznik = int(n)
     A = []
     numer = 0
@@ -9,4 +9,4 @@ def main(n):
     return A
 
 if __name__ == "__main__":
-    main()
+    m2()

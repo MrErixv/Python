@@ -1,4 +1,4 @@
-def main(lista):
+def m1(lista):
     licz_20 = 0
     licz_7 = 0
     for x in lista:
@@ -12,4 +12,4 @@ def main(lista):
         return False
     
 if __name__ == "__main__":
-    main()
+    m1()

@@ -1,8 +1,8 @@
-from MyPackage.module1 import main as fun1
-from MyPackage.module2 import main as fun2
-from MyPackage.module3 import main as fun3
-from MyPackage.submodule.module4 import main as fun4
-from MyPackage.submodule.module5 import main as fun5
+from MyPackage.module1 import m1 as fun1
+from MyPackage.module2 import m2 as fun2
+from MyPackage.module3 import m3 as fun3
+from MyPackage.submodule.module4 import m4 as fun4
+from MyPackage.submodule.module5 import m5 as fun5
 
 
 wynik= fun1([1,20,20,7,7,7,3,5])
