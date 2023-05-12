@@ -20,5 +20,4 @@ print(wynik)
 wynik= fun4((1,2,3))
 print(wynik)
 
-wynik= fun5((12,1,8888,1000000))
-print(wynik)
+fun5((12,1,8888,1000000))
